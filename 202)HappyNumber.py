@@ -19,4 +19,4 @@ def isHappy(Num):
         return False
 
 
-print(isHappy(2))
+print(isHappy(7))
