@@ -3,7 +3,7 @@
 
 
 def myPow(Base: float, Power: int) -> float:
-    
+    ...
     
         
 
