@@ -14,4 +14,3 @@ def twoSum(Nums,Target):
     
     return []
 
-print(twoSum([1,1,3,4],2))

@@ -11,5 +11,3 @@ def plusOne(Nums):
             Nums.append(int(Num))
         
         return Nums
-            
-print(plusOne([1,2,3,4]))

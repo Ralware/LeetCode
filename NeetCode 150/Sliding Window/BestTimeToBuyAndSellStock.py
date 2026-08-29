@@ -2,7 +2,7 @@
 # Output: 6
 
 
-def maxProfit(Prices: List[int]) -> int:
+def maxProfit(Prices):
     
     Min = Prices[0]
     MaxDiff = 0
@@ -17,4 +17,3 @@ def maxProfit(Prices: List[int]) -> int:
     
     return MaxDiff
 
-print(maxProfit([10,5,6,7,1]))

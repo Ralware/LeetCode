@@ -6,5 +6,3 @@ def myPow(Base: float, Power: int) -> float:
     ...
     
         
-
-print(myPow(2,-5))

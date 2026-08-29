@@ -28,4 +28,3 @@ def threeSum(Nums):
 
     return Solutions
 
-print(threeSum([-1,0,1,2,-1,-4]))

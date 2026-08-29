@@ -65,4 +65,4 @@ def multiply(Num1: str, Num2: str) -> str:
     return StringProduct
     
 
-print(multiply("3","4"))    
+    
